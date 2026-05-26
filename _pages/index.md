@@ -3,11 +3,10 @@ title: Hej hej
 permalink: /
 ---
 
-This site is under construction and the SweBIdx initiative is still in its infancy.  
-Interested already? Get in touch by contacting one of the [existing members](/members/).
+This site is under construction and the SweBIdx initiative is still in its infancy (the name itself is a working title). Interested already? Get in touch by contacting one of the [existing members](/members/).
 {: .notice--warning }
 
-The *Swedish BioImage Data & Developers Exchange (SweBIdx)* is a community for everyone working on the computational side of bioimaging within Sweden &mdash; from bioimage analysts and hands-on bioimage data stewards to domain-specific infrastructure maintainers and research software engineers (RSEs).
+The *Swedish BioImage Data & Developers Exchange (SweBIdx)* is a community for everyone working on the computational side of bioimaging within Sweden &mdash; from bioimage analysts and hands-on data stewards to domain-specific IT infrastructure providers and research software engineers (RSEs).
 
 We are an open and welcoming do-ocracy dedicated to advancing computational aspects of bioimaging within Sweden and beyond. We enjoy working together, exchange knowledge and coordinate our activities. Together, we get things done.
 
